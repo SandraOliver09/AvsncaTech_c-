@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\AvancaTech_c-\bin\Debug\net9.0\AvancaTech_c-.exe
+C:\Users\Aluno\Desktop\AvancaTech_c-\bin\Debug\net9.0\AvancaTech_c-.deps.json
+C:\Users\Aluno\Desktop\AvancaTech_c-\bin\Debug\net9.0\AvancaTech_c-.runtimeconfig.json
+C:\Users\Aluno\Desktop\AvancaTech_c-\bin\Debug\net9.0\AvancaTech_c-.dll
+C:\Users\Aluno\Desktop\AvancaTech_c-\bin\Debug\net9.0\AvancaTech_c-.pdb
+C:\Users\Aluno\Desktop\AvancaTech_c-\obj\Debug\net9.0\AvancaTech_c-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\AvancaTech_c-\obj\Debug\net9.0\AvancaTech_c-.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\AvancaTech_c-\obj\Debug\net9.0\AvancaTech_c-.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\AvancaTech_c-\obj\Debug\net9.0\AvancaTech_c-.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\AvancaTech_c-\obj\Debug\net9.0\AvancaTech_c-.sourcelink.json
+C:\Users\Aluno\Desktop\AvancaTech_c-\obj\Debug\net9.0\AvancaTech_c-.dll
+C:\Users\Aluno\Desktop\AvancaTech_c-\obj\Debug\net9.0\refint\AvancaTech_c-.dll
+C:\Users\Aluno\Desktop\AvancaTech_c-\obj\Debug\net9.0\AvancaTech_c-.pdb
+C:\Users\Aluno\Desktop\AvancaTech_c-\obj\Debug\net9.0\AvancaTech_c-.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\AvancaTech_c-\obj\Debug\net9.0\ref\AvancaTech_c-.dll
